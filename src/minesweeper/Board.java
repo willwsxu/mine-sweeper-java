@@ -18,6 +18,10 @@ public class Board {
     
     int rows, cols; //row and column of a board
     
+    {}
+    {
+    }
+    
     public Board(int r, int c)
     {
         rows=r;
