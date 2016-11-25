@@ -18,6 +18,12 @@ public class Board {
     
     int rows, cols; //row and column of a board
     
+    private Board()  // it is legal to have both private and public constructors
+    {}
+    public void Board()  // it is legal to have method same as class name
+    {
+    }
+    
     public Board(int r, int c)
     {
         rows=r;
