@@ -109,7 +109,7 @@ public class MineJFrame extends javax.swing.JFrame {
         });
         getContentPane().add(B11);
         */
-        getContentPane().setPreferredSize(new Dimension(250,250));
+        getContentPane().setPreferredSize(new Dimension(300,300));
 
         pack();
         
